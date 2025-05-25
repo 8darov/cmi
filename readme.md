@@ -8,21 +8,18 @@ Proyecto de Creación Multimedia Interactiva de la  Facultad de Bellas Artes de 
 
 
 
-**Titulo** : MI Proyecto(nombre)
+**Titulo** : Martes de Guerra
 
-**Web:**   (url github.io)
+**Web:**   (https://github.com/8darov)
 
-**Autor:**  (Nombre apellidos)
+**Autor:**  Alba González Torres
 
-**Resumen** : Este proyecto busca contar las hitorias de migrantes jóvenes, siendo ellos mismos los protagonistas. Esta será una compilación de relatos y crónicas de sus experiencias, exponiendo su lucha de identidad y sentido de pertenencia, herencia migratoria, entre otros temas que abrirán un debate del tema.
+**Resumen** : Es un juego interactivo de comedia educativa centrado en la mitología romana. El jugador explora situaciones absurdas y diálogos con distintas deidades, aprendiendo sobre su historia, atributos y relaciones mitológicas a través de mecánicas simples y decisiones ramificadas.
 
-**Estilo/género:**  Novela / juego / portfolio / documental... etc.
+**Estilo/género:**  Novela / juego 
 
-**Logotipo** : (insertar imagen y breve justificación, si  tiene) 
-
-(insertar imágenes a resolucion de 100px alto)
-
-**Resolución:** 800x600px responsivo/o tamaño fijo (indicar la que has aplicado, y si es reescalable)
+**Logotipo** : 
+![logo](https://github.com/user-attachments/assets/625db65c-cfe7-4b07-9654-725284bda6a1)
 
 **Probado en:**   (indicar dónde has probado que funciona: ej. Google Chrome / MS Edge... /móviles android )
 
