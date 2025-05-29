@@ -21,22 +21,18 @@ Proyecto de Creación Multimedia Interactiva de la  Facultad de Bellas Artes de 
 **Logotipo** : 
 ![logo](https://github.com/user-attachments/assets/625db65c-cfe7-4b07-9654-725284bda6a1)
 
-**Probado en:**   (indicar dónde has probado que funciona: ej. Google Chrome / MS Edge... /móviles android )
+**Probado en:**   (Google Chrome)
 
-**Tamaño proyecto:** 14MB 
+**Tamaño proyecto:** 200MB aprox
 
 **Licencia** Este proyecto tiene una Licencia CC Reconocimiento Compartir igual (CC BY-SA)
 
-**Fecha** : 14/05/2020
+**Fecha** : 28.05-2025
 
 **Medios** (donde se tiene presencia relacionada):
 
-- Github:
-- Twitter
-- Instagram
-
-
-![girl](https://github.com/mgea/cmi20/blob/master/WalkingGirl_front01.png)
+- Github: https://github.com/8darov/Martes
+- Itch.io: https://8darov.itch.io/martes
 
 # 2. Memoria del proyecto 
 
