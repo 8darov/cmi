@@ -27,7 +27,7 @@ Proyecto de Creación Multimedia Interactiva de la  Facultad de Bellas Artes de 
 
 **Licencia** Este proyecto tiene una Licencia CC Reconocimiento Compartir igual (CC BY-SA)
 
-**Fecha** : 28.05-2025
+**Fecha** : 28-05-2025
 
 **Medios** (donde se tiene presencia relacionada):
 
@@ -46,15 +46,7 @@ Proyecto de Creación Multimedia Interactiva de la  Facultad de Bellas Artes de 
 
 ### 2.2. Esquema de navegación 
 
-
-
-(imagen con las distintas pantallas de navegación, usa draw.io o cualquier programa de dibujo)
-
-
-
-
-
-
+![image](https://github.com/user-attachments/assets/eba007ec-e968-49a1-a0c9-2cffda7a98cc)
 
 # 3. Metodología
 
