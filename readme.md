@@ -54,9 +54,8 @@ Proyecto de Creación Multimedia Interactiva de la  Facultad de Bellas Artes de 
 
 Metodología de desarrollo de productos multimedia basado en una metodología de UX (User Experience)
 
+**Etapa 1: Ideación de proyecto**
 
-
-### Etapa 1: Ideación de proyecto
 **Investigación de campo** (propuestas inspiradoras para el proyecto)
 
 *   Estética del Vaporwave, cultura digital falsamente nostálgica que usa las estatuas como su principal motivo.
@@ -73,7 +72,32 @@ Siempre me ha interesado la mitología romana, aunque al estar tan estrechamente
 **Publico / audiencia**
 
 *   Orientado a todos los públicos mayores de 16 años.
-```
+    
+
+**Etapa 2: Desarrollo / actividades realizadas**
+
+*   Juego: He tenido en mente crear una estética que combine el estilo _collage_, con influencias del punk, elementos llamativos y, en ocasiones, un tono siniestro. Mi inspiración principal ha sido el estilo de los memes MLG, que surgieron en la cultura de internet y los videojuegos alrededor de 2010. 
+    
+*   Aunque el enfoque visual es importante, el verdadero objetivo del proyecto es aprender sobre mitología. Para ello, he desarrollado un sistema en _Dialogic_ que presenta información fiable sobre todos los personajes mitológicos que aparecen en el juego.
+    
+*   Además, en la galería del juego incluyo un resumen más ligero y cómico de esa misma información, presentado de forma visual y no tan extensa, para hacerlo más accesible. También he añadido un pequeño video de un templo griego como un chascarrillo visual, acompañado de dos minijuegos: el primero es un _Pong_ para dos jugadores, y el segundo un _Snake_ para un jugador, con un nivel de dificultad más elevado
+    
+*   Instrucciones y ayuda al usuario: La navegación por el menú puede no parecer tan sencilla al principio, ya que los títulos de los botones solo aparecen al pasar el cursor sobre ellos (_hover_). Sin embargo, una vez te familiarizas con este sistema, la interacción se vuelve mucho más intuitiva y fluida.
+    
+*   Menús y elementos de navegación (botones): La navegación puede parecer poco convencional al principio, ya que los títulos de los botones aparecen solo al pasar el cursor sobre ellos (_hover_). Sin embargo, una vez se comprende esta dinámica, la experiencia se vuelve mucho más intuitiva.
+    
+
+Todos los botones del menú cuentan con texturas visuales y la mayoría reaccionan al _hover_, lo que contribuye a una experiencia más inmersiva e interactiva. Además, el cursor también cambia según el contexto:
+
+*   El primer cursor responde a la interacción del usuario, aportando dinamismo al entorno.
+    
+*   El segundo cursor, diseñado para ser más cómodo y preciso, se activa en las zonas donde se requiere mayor exactitud.
+    
+
+**Etapa 3: Problemas identificados**
+
+*   Mi único problema hasta ahora, que no haya podido resolver en el momento es la escala de [itch.io](//itch.io). En algunos dispositivos se ve perfectamente, en otros no tanto, igualmente el juego es totalmente funcional en los dispositivos en los que ha sido probado hasta ahora. He conseguido limpiar y ordenar el código que ha dado problemas al ser exportado a HTML (algunas texturas no estaban bien optimizadas), así que eso no me preocupa.
+
 
 
 **Motivación de la propuesta** 
