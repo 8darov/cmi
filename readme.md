@@ -57,12 +57,23 @@ Metodología de desarrollo de productos multimedia basado en una metodología de
 
 
 ### Etapa 1: Ideación de proyecto
-
 **Investigación de campo** (propuestas inspiradoras para el proyecto)
 
-- Portfolio [Leonardi Web page](http://www.rleonardi.com/interactive-resume/) para idear cómo organizar el material
-- 
+*   Estética del Vaporwave, cultura digital falsamente nostálgica que usa las estatuas como su principal motivo.
+    
+*   Mitología romana.
+    
+*   La estética visual MLG de los videojuegos.
+    
 
+**Motivación de la propuesta**
+
+Siempre me ha interesado la mitología romana, aunque al estar tan estrechamente adaptada de la griega, a veces me resultaba confusa. Por otro lado, la estética _Vaporwave_ siempre me ha atraído por ese toque siniestro y nostálgico que la caracteriza. A través de ella, encuentro una forma de explorar no solo la historia mitológica, sino también aspectos de la cultura digital moderna, y al mismo tiempo, compartir esa experiencia con otros.
+
+**Publico / audiencia**
+
+*   Orientado a todos los públicos mayores de 16 años.
+```
 
 
 **Motivación de la propuesta** 
