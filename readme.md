@@ -110,7 +110,7 @@ Gracias.
 
 **5 Referencias**
 
-\_Libros_\
+Libros:
 
 
 Humbert, J. (1988). Mitología griega y romana. Gustavo Gili.
