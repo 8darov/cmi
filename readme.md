@@ -98,71 +98,51 @@ Todos los botones del menú cuentan con texturas visuales y la mayoría reaccion
 
 *   Mi único problema hasta ahora, que no haya podido resolver en el momento es la escala de [itch.io](//itch.io). En algunos dispositivos se ve perfectamente, en otros no tanto, igualmente el juego es totalmente funcional en los dispositivos en los que ha sido probado hasta ahora. He conseguido limpiar y ordenar el código que ha dado problemas al ser exportado a HTML (algunas texturas no estaban bien optimizadas), así que eso no me preocupa.
 
+## **4\. Conclusiones**
 
+Siempre me ha gustado la informática; de hecho, desde hace tres años formo parte de una comunidad dedicada a la programación de mods para videojuegos. Aun así, nunca me había atrevido a diseñar algo tan grande por mi cuenta. Esta vez, lo he logrado: he creado un juego completo y funcional, con una estética muy personal que siento que refleja por completo mi estilo.
 
-**Motivación de la propuesta** 
+Estoy muy feliz con el resultado y, además, he aprendido muchísimo sobre programación. Los mods en los que había trabajado antes usaban un lenguaje diferente, así que este proyecto también me ha servido para ampliar mis conocimientos.
 
-Este  proyecto es interesante porque ... 
+Creo que, para cualquier principiante como yo, el paso más difícil (y lo que muchas veces hace que la gente se desanime) es aprender a manejar el propio programa. Pero una vez entiendes lo básico, es imposible no querer seguir.
 
+No tengo duda de que pronto acabaré creando algo aún más personal. Siempre he tenido ese impulso de crear, y ahora por fin tengo las herramientas para hacerlo realidad.
 
+Gracias.
 
-**Publico / audiencia**
+**5 Referencias**
 
-- Orientado a 
+\*_Artículos y blogs_ \*
 
-
-
-
-
-### Etapa 2: Desarrollo / actividades realizadas
-
-(qué soluciones has planteado y cómo se han resuelto: juego, galería de fotos, grabación de video, etc.)
-
-- Juego. 
-- Video 
-- Instrucciones y ayuda al usuario 
-- Menús y elementos de navegación (botones)
-- etc.
-
-
-
-### Etapa 3: Problemas identificados
-
-(que consideras que no  funciona correctamente y por qué )
-
-
-
-# 4. Conclusiones 
-
-(explica brevemente tu valoración, problemas que has detectado y que te gustaría hacer o mejorar en el futuro )
-
-
-
-
-
-
-
-# 5 Referencias 
-
-**Artículos y blogs ** 
-
-- Crofts, S., Fox, M., Retsema, A. and Williams, B. (2005) *Podcasting: A new technology in search of viable business models*First Monday, 10(9). https://doi.org/10.5210/fm.v10i9.1273. Recuperado el 8 de abril de 2020 de: https://journals.uic.edu/ojs/index.php/fm/article/view/1273/1193
+*   Crofts, S., Fox, M., Retsema, A. and Williams, B. (2005) _Podcasting: A new technology in search of viable business models_First Monday, 10(9). [https://doi.org/10.5210/fm.v10i9.1273](https://doi.org/10.5210/fm.v10i9.1273). Recuperado el 8 de abril de 2020 de: [https://journals.uic.edu/ojs/index.php/fm/article/view/1273/1193](https://journals.uic.edu/ojs/index.php/fm/article/view/1273/1193)
+    
+*   Spaceplace.nasa.gov. 2019. Voyager 1 And 2: The Interstellar Mission | NASA Space Place – NASA Science For Kids. \[online\] Available at: [https://spaceplace.nasa.gov/voyager-to-planets/sp/](https://spaceplace.nasa.gov/voyager-to-planets/sp/)\[Accessed 10 June 2020\].
+    
 
 **Recursos y materiales audiovisuales:**
 
-* Musica:  
-* Imágenes:  
-* Tipografía
+*   Musica: Free to use choir sacado de Pixabay
+    
+*   Imágenes: Principalmente sacadas de diversos sitios free to use. (Luego respectivamente tratadas y alteradas con herramientas digitales).
+    
+*   Tipografía: Roman Antique, Roman Antique Italic (Por Dieter Steffmann, free to use)
+    
+*   Vídeo: video free to use del Templo de Esculapio en Villa Borghese
+    
 
 **Herramientas utilizadas**
 
-- Hippani Animator 5.1
-- 
+*   Adobe Photoshop
+    
+*   Procreate
+    
+*   IbisPaint
+    
+*   Godot 4.4.1
+    
+
+[https://creativecommons.org/licenses/?lang=es](https://creativecommons.org/licenses/?lang=es)
+
+Mayo 2025
 
 
-
-(imagen de la licencia, copiar y pegar aquí la correcta)
-
-https://creativecommons.org/licenses/?lang=es
-
-Mayo 2023
