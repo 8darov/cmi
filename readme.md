@@ -85,10 +85,7 @@ Siempre me ha interesado la mitología romana, aunque al estar tan estrechamente
     
 *   Instrucciones y ayuda al usuario: La navegación por el menú puede no parecer tan sencilla al principio, ya que los títulos de los botones solo aparecen al pasar el cursor sobre ellos (_hover_). Sin embargo, una vez te familiarizas con este sistema, la interacción se vuelve mucho más intuitiva y fluida.
     
-*   Menús y elementos de navegación (botones): La navegación puede parecer poco convencional al principio, ya que los títulos de los botones aparecen solo al pasar el cursor sobre ellos (_hover_). Sin embargo, una vez se comprende esta dinámica, la experiencia se vuelve mucho más intuitiva.
-    
-
-Todos los botones del menú cuentan con texturas visuales y la mayoría reaccionan al _hover_, lo que contribuye a una experiencia más inmersiva e interactiva. Además, el cursor también cambia según el contexto:
+*   Menús y elementos de navegación (botones): Todos los botones del menú cuentan con texturas visuales y la mayoría reaccionan al _hover_, lo que contribuye a una experiencia más inmersiva e interactiva. Además, el cursor también cambia según el contexto:
 
 *   El primer cursor responde a la interacción del usuario, aportando dinamismo al entorno.
     
