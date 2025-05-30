@@ -43,8 +43,9 @@ Proyecto de Creación Multimedia Interactiva de la  Facultad de Bellas Artes de 
 ![image](https://github.com/user-attachments/assets/4dcfb325-e5f3-4fac-8898-5ef476702e74)
 
 
-(narra brevemente lo que sucede en tu proyecto, puedes usar 3-4 imágenes de apoyo)
+Contamos con una intro, que deriva en un menú con los respectivos botones de “Jugar”, “Ajustes” ,”Créditos”. En Jugar accedemos al menú de contenido, en ajustes podemos cambiar el volumen del BGM y en créditos podemos ver los detalles de la producción. 
 
+En el menú principal planetario se puede elegir entre ver la galería, un pequeño vídeo de un templo griego, etc… Fuera de lo informativo, la parte interactiva cuenta con un sistema Dialogic que nos muestra información sobre cada uno de los personajes sin orden predeterminado, ya que puedes escoger y leer el que tú quieras. En los botones de Saturno y Júpiter nos encontramos con un Pong para dos jugadores y un Snake clásico algo más difícil. 
 
 
 ### 2.2. Esquema de navegación 
