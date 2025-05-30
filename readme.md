@@ -54,8 +54,6 @@ En el menú principal planetario se puede elegir entre ver la galería, un peque
 
 # 3. Metodología
 
-Metodología de desarrollo de productos multimedia basado en una metodología de UX (User Experience)
-
 **Etapa 1: Ideación de proyecto**
 
 **Investigación de campo** (propuestas inspiradoras para el proyecto)
