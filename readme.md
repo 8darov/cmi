@@ -112,9 +112,16 @@ Gracias.
 
 \*_Artículos y blogs_ \*
 
-*   Crofts, S., Fox, M., Retsema, A. and Williams, B. (2005) _Podcasting: A new technology in search of viable business models_First Monday, 10(9). [https://doi.org/10.5210/fm.v10i9.1273](https://doi.org/10.5210/fm.v10i9.1273). Recuperado el 8 de abril de 2020 de: [https://journals.uic.edu/ojs/index.php/fm/article/view/1273/1193](https://journals.uic.edu/ojs/index.php/fm/article/view/1273/1193)
-    
-*   Spaceplace.nasa.gov. 2019. Voyager 1 And 2: The Interstellar Mission | NASA Space Place – NASA Science For Kids. \[online\] Available at: [https://spaceplace.nasa.gov/voyager-to-planets/sp/](https://spaceplace.nasa.gov/voyager-to-planets/sp/)\[Accessed 10 June 2020\].
+
+Humbert, J. (1988). Mitología griega y romana. Gustavo Gili.
+
+Dumézil, G. (2016). Mito y epopeya, III : historias romanas. Fondo de Cultura Económica
+
+Turcan, R. (1996). The cults of the Roman empire. Blackwell.
+
+Wardman, A. (1982). Religion and statecraft among the romans. Johns Hopkins University Press.
+
+Lipka, M. (2009). Roman gods : a conceptual approach. Brill.
     
 
 **Recursos y materiales audiovisuales:**
